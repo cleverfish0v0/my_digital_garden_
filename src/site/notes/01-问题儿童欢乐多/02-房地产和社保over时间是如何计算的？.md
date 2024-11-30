@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/01/02-over/","dgPassFrontmatter":true,"created":"2024-11-30T16:28:56.956+08:00","updated":"2024-11-30T16:38:35.458+08:00"}
+---
+
+
+# 学过小学数学吗？
+
+学过小学数学你丫的就应该会算！！！
