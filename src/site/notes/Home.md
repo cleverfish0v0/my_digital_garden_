@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-11-30T14:08:00.847+08:00","updated":"2024-11-30T16:23:44.594+08:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-11-30T14:08:00.847+08:00","updated":"2024-11-30T16:41:29.236+08:00"}
 ---
 
 
@@ -11,5 +11,8 @@
 大傻逼！！！我提前向全世界人类道歉！！！对不起！！！
 
 # 大概算是个目录
+
+[[01-问题儿童欢乐多/00-问题儿童欢乐多\|00-问题儿童欢乐多]]
+
 
 
